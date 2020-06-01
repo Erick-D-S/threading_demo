@@ -1,1 +1,2 @@
-# threading_demo
+threading demo
+with semaphore example using pthreads.
