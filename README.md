@@ -1,2 +1,1 @@
-threading demo
-with semaphore example using pthreads.
+threading demo with semaphore example using pthreads.
